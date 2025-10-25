@@ -8,7 +8,9 @@ No gradients. No distractions. Just contrast.
 2. Search for **Lince**
 3. Click **Install**
 4. Set your theme:
-   ```json
-   {
-     "theme": "Lince Dark"
-   }
+
+```json
+{
+  "theme": "Lince Dark"
+}
+```
